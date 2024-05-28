@@ -1,6 +1,5 @@
 name: ClusteredNetwork_pub
 channels:
-  - soumith
   - defaults
   - conda-forge
 dependencies:
